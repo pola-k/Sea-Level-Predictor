@@ -1,6 +1,6 @@
 # Sea Level Predictor
 
-This project is part of freeCodeCamp's Data Analysis with Python course. In this project, we will analyze global average sea level change data since 1880 and use it to predict future sea level changes up to the year 2050. We will use Python, Pandas, Matplotlib, and the `linregress` function from Scipy for statistical modeling and data visualization.
+This project is part of **freeCodeCamp's Data Analysis with Python** course. In this project, we will analyze global average sea level change data since 1880 and use it to predict future sea level changes up to the year 2050. We will use Python, Pandas, Matplotlib, and the `linregress` function from Scipy for statistical modeling and data visualization.
 
 ## Project Overview
 
